@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Jak i kiedy przycinać róże rabatowe?",
+    "must_contain": ["rabatowe", "przycin"]
+  },
+  {
+    "question": "Jak zabezpieczyć róże na zimę?",
+    "must_contain": ["zima", "okry"]
+  },
+  {
+    "question": "Dlaczego liście róży żółkną?",
+    "must_contain": ["żółkn", "liś"]
+  },
+  {
+    "question": "Jak często podlewać róże?",
+    "must_contain": ["podlew"]
+  },
+  {
+    "question": "Czym różnią się róże pnące od parkowych?",
+    "must_contain": ["pnąc", "parkow"]
+  }
+]
