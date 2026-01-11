@@ -152,7 +152,7 @@ Głowę przycinać podobnie jak róże wielokwiatowe, w zależności od odmiany,
 
 ### Usuwanie przekwitłych kwiatów róż – czy i kiedy to robić
 
-Wykonywane po zwiędnięciu kwiatów róż zdolnych do ponownego kwitnienia. Zapewnia to, że roślina zużywa energię na produkcję kwiatów, a nie nasion. Oderiwać zwiędły kwiat wraz z rozwijającą się główką nasienną.
+Usuwanie przekwitłych kwiatów róż wykonywane jest po zwiędnięciu kwiatów zdolnych do ponownego kwitnienia. Zapewnia to, że roślina zużywa energię na produkcję kwiatów, a nie nasion. Oderiwać zwiędły kwiat wraz z rozwijającą się główką nasienną.
 
 ---
 
