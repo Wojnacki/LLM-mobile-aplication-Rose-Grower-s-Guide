@@ -4,7 +4,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_MD = BASE_DIR / "knowledge" / "raw" / "poradnik_pielegnacji_roz_v_7.md"
+INPUT_MD = BASE_DIR / "knowledge" / "raw" / "poradnik_pielegnacji_roz_v_8.md"
 OUTPUT_JSONL = BASE_DIR / "knowledge" / "chunks" / "poradnik_pielegnacji_roz_chunks.jsonl"
 
 MAX_CHARS = 2000

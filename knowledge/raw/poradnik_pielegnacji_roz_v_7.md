@@ -57,10 +57,6 @@ Podstawy pielęgnacji róż to fundament zdrowego wzrostu. Prawidłowe podłoże
 ### Wprowadzenie
 Cięcie róż jest niezbędne dla utrzymania ich zdrowia, kształtu i obfitego kwitnienia. Regularne przycinanie pobudza rośliny do tworzenia nowych pędów i kwiatów.
 
-### Róże Rabatowe – Przycinanie
-- **Kiedy:** Najlepiej przycinać wczesną wiosną, przed rozpoczęciem wegetacji.
-- **Jak:** Skróć pędy o 1/3, usuń martwe i słabe gałęzie. Przycinaj pod kątem 45 stopni nad zdrowym pąkiem.
-
 ### Kiedy przycinać?
 - **Wiosną:** Usuń martwe, uszkodzone i słabe pędy. Przycinaj tuż nad zdrowym pąkiem skierowanym na zewnątrz.
 - **Latem:** Usuń przekwitłe kwiaty, aby pobudzić roślinę do ponownego kwitnienia.
@@ -114,7 +110,9 @@ Róże Miniaturowe są idealne do donic, balkonów i tarasów. Wymagają regular
 ### Róże Angielskie 
 Róże Angielskie łączą piękno starych róż z powtarzającym się kwitnieniem nowoczesnych odmian. Odporne na choroby.
 
-### Porównanie Rodzajów Róż ( Róże Rabatowe, Róże Pnące, Róże Okrywowe, Róże Parkowe, Róże Miniaturowe, Róże Angielskie )
+### Porównanie Rodzajów Róż.
+Ten rozdział porównuje róże rabatowe, pnące, okrywowe, parkowe, miniaturowe i angielskie według wzrostu, zastosowania, pielęgnacji i kwitnienia.
+
 
 | Cecha               | Róże Rabatowe       | Róże Pnące          | Róże Okrywowe       | Róże Parkowe        | Róże Miniaturowe    | Róże Angielskie     |
 |---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|

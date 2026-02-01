@@ -18,5 +18,29 @@
   {
     "question": "Czym różnią się róże pnące od parkowych?",
     "must_contain": ["pnąc", "parkow"]
-  }
+  },
+  {
+    "question": "Jakie są korzyści z mulczowania róż?",
+    "must_contain": ["mulczowan"]
+  },
+  {
+    "question": "Jakie są najczęstsze choroby róż i jak je zwalczać?",
+    "must_contain": ["chorob", "szkodnik"]
+  },
+  {
+    "question": "Jakie podłoże jest najlepsze dla róż?",
+    "must_contain": ["podłoż"]
+  },
+  {
+    "question": "Jak nawozić róże w sezonie?",
+    "must_contain": ["nawożen"]
+  },
+  {
+    "question": "Porównaj róże pnące z okrywowymi",
+    "must_contain": ["pnąc", "okrywow"]
+  },
+  {
+    "question": "Jak poradzić sobie z mszycami",
+    "must_contain": ["mszy", "szkodn"]    
+  }  
 ]
