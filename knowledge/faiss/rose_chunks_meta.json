@@ -1,74 +1,136 @@
 [
   {
-    "text": "# Przewodnik Pielęgnacji Róż\n\n## Wprowadzenie\nTen poradnik dotyczy pielęgnacji wszystkich typów róż ogrodowych, w tym róż rabatowych, pnących, parkowych, okrywowych, miniaturowych i angielskich.\n\nRóże to jedne z najbardziej wszechstronnych i cenionych roślin ogrodowych. Mogą rosnąć w różnych warunkach — od małych donic na tarasach po rozległe ogrody. Ich długie kwitnienie, bogactwo kolorów i zapachów sprawiają, że są ulubieńcami wielu ogrodników.\n\n---",
-    "id": "rose_chunk_001"
+    "id": "basics_roses_intro",
+    "section": "podstawy",
+    "title": "Podstawy pielęgnacji róż",
+    "keywords": [
+      "pielęgnacja róż",
+      "uprawa róż",
+      "warunki wzrostu"
+    ],
+    "text": "Róże to rośliny wszechstronne, które mogą rosnąć w różnych warunkach – od małych tarasów z miniaturowymi odmianami w donicach po przestronne ogrody z dużymi krzewami i różami pnącymi. Kwitną znacznie dłużej niż większość roślin ogrodowych, dostarczając bogatej kolorystyki i zapachu przez wiele miesięcy."
   },
   {
-    "text": "## Podstawy pielęgnacji róż (wszystkie typy)\n\n### Podłoże dla róż\nTen rozdział dotyczy podłoża odpowiedniego dla wszystkich typów róż.\n\nRóże wymagają bogatych, wilgotnych, ale dobrze przepuszczalnych podłoży. Gleba powinna zatrzymywać wilgoć, ale nie powodować zastojów wody, oraz być bogata w składniki odżywcze.",
-    "id": "rose_chunk_002"
+    "id": "soil_requirements",
+    "section": "podstawy",
+    "title": "Podłoże",
+    "keywords": [
+      "gleba",
+      "podłoże dla róż",
+      "ziemia do róż"
+    ],
+    "text": "Róże wymagają bogatego, wilgotnego, ale dobrze przepuszczającego podłoża. Odpowiednie przygotowanie gruntu jest kluczowe dla zdrowia rośliny i długowieczności. Podłoże powinno mieć zbilansowany skład umożliwiający zatrzymanie wilgoci, jednocześnie zapobiegając zaleganiu wody. Przy prawidłowej uprawie róże mogą rosnąć w jednym miejscu ponad 20 lat."
   },
   {
-    "text": "### Sadzenie róż\nTen rozdział dotyczy sadzenia róż niezależnie od ich typu.\n\nWiększość róż preferuje stanowiska słoneczne. Większość róż preferuje stanowiska słoneczne, choć niektóre odmiany tolerują lekki cień. **Prawidłowe sadzenie to podstawa sukcesu:**\n\n**Kroki sadzenia:**\n1. Wymocz korzenie w wodzie przez 1–2 godziny przed sadzeniem.\n2. Wykop dołek około dwukrotnie większy niż bryła korzeniowa.\n3. Wzbogać glebę wysokiej jakości podłożem i nawozem.\n4. Posadź różę tak, aby miejsce szczepienia znalazło się 2,5 cm poniżej powierzchni gleby.\n5. Zasyp mieszanką gruntu rodzimego i podłoża.\n6. Obficie podlej, aby ułatwić roślinie zadomowienie.",
-    "id": "rose_chunk_003"
+    "id": "rose_planting",
+    "section": "podstawy",
+    "title": "Sadzenie róż",
+    "keywords": [
+      "sadzenie róż",
+      "jak sadzić róże",
+      "sadzenie krzewów róż"
+    ],
+    "text": "Większość róż preferuje stanowiska słoneczne, chociaż niektóre odmiany dobrze rosną w lekkim cieniu. Przed sadzeniem należy wymoczyć korzenie w wodzie przez 1–2 godziny. Następnie wykopać dołek około dwukrotnie większy niż bryła korzeniowa. Glebę warto wzbogacić podłożem wysokiej jakości oraz nawozem. Różę sadzi się tak, aby miejsce szczepienia znajdowało się około 2,5 cm poniżej powierzchni gleby. Po posadzeniu roślinę należy obficie podlać."
   },
   {
-    "text": "### Mulczowanie\nMulczowanie przynosi wiele korzyści:\n- Zatrzymuje wilgoć w glebie.\n- Stopniowo uwalnia składniki odżywcze.\n- Hamuje wzrost chwastów.\n- Poprawia strukturę gleby.\n\nNakładaj warstwę mulczu (5–7 cm) wokół rośliny, unikając bezpośredniego kontaktu z łodygami.",
-    "id": "rose_chunk_004"
+    "id": "mulching_roses",
+    "section": "podstawy",
+    "title": "Mulczowanie",
+    "keywords": [
+      "mulczowanie",
+      "ściółkowanie",
+      "mulcz"
+    ],
+    "text": "Mulcz przynosi wiele korzyści: pomaga utrzymać wilgoć w glebie, zmniejsza potrzebę podlewania, ogranicza rozwój chwastów oraz poprawia strukturę gleby. Stopniowo uwalnia także składniki odżywcze i wspiera rozwój korzystnych mikroorganizmów w glebie. Zaleca się nakładać warstwę mulczu o grubości 5–7 cm wokół rośliny, unikając bezpośredniego kontaktu z łodygami."
   },
   {
-    "text": "### Podlewanie róż\nTen rozdział opisuje częstotliwość podlewania róż.\n\nNowo posadzone róże podlewać co 2–3 dni przez pierwsze 4–6 tygodni. Róże zadomowione podlewać głęboko 1–2 razy w tygodniu, w zależności od warunków pogodowych.",
-    "id": "rose_chunk_005"
+    "id": "rose_types_park",
+    "section": "rodzaje_roz",
+    "title": "Róże parkowe",
+    "keywords": [
+      "róże parkowe",
+      "rodzaje róż",
+      "stare odmiany róż"
+    ],
+    "text": "Róże parkowe obejmują róże gatunkowe oraz bardzo stare odmiany. Występują w dużej różnorodności rozmiarów, kolorów i zapachów. Wiele z nich wytwarza jesienią dekoracyjne owoce oraz atrakcyjne jesienne liście. Zazwyczaj rosną wyżej niż inne typy róż, dlatego najlepiej sprawdzają się w dużych ogrodach, na żywopłoty lub w większych donicach."
   },
   {
-    "text": "### Nawożenie róż\nTen rozdział dotyczy nawożenia wszystkich typów róż.\n\nNawożenie powinno odbywać się od wiosny do późnego lata. Można stosować nawozy płynne, interwencyjne lub długodziałające.\n**Rodzaje nawozów:**\n- **Płynne:** Stosuj co 7–14 dni podczas aktywnego wzrostu.\n- **Interwencyjne:** Działają natychmiast, stosuj raz w tygodniu.\n- **Dwufazowe:** Działają przez cały sezon, efekty widoczne już po 7 dniach.\n---",
-    "id": "rose_chunk_006"
+    "id": "rose_types_hybrid_tea_floribunda",
+    "section": "rodzaje_roz",
+    "title": "Róże wielokwiatowe",
+    "keywords": [
+      "hybrid tea",
+      "floribunda",
+      "róże wielkokwiatowe"
+    ],
+    "text": "Do popularnych odmian należą róże z grup Hybrid Tea oraz Floribunda. Hybrid Tea zazwyczaj wytwarzają jeden duży kwiat na łodydze, natomiast Floribunda kwitną w większych kępach. Oba typy mogą kwitnąć wielokrotnie od lata do późnej jesieni, zapewniając obfitość kwiatów przez wiele miesięcy."
   },
   {
-    "text": "## Przycinanie róż rabatowych – kiedy i jak ciąć\nTen rozdział dotyczy wyłącznie przycinania róż rabatowych, w tym odmian Hybrid Tea i Floribunda.\n\nRóże rabatowe przycina się wczesną wiosną. Pędy skraca się o około jedną trzecią długości, usuwając martwe i słabe gałęzie. Cięcie wykonuje się pod kątem 45 stopni nad zdrowym pąkiem.\n\nLatem usuwa się przekwitłe kwiaty. Jesienią pędy można lekko skrócić w celu przygotowania rośliny do zimy.\n\n---",
-    "id": "rose_chunk_007"
+    "id": "rose_types_climbing_groundcover",
+    "section": "rodzaje_roz",
+    "title": "Róże pnące i okrywowe",
+    "keywords": [
+      "róże pnące",
+      "róże okrywowe",
+      "róże do pergoli"
+    ],
+    "text": "Róże pnące i okrywowe różnią się charakterystyką wzrostu. Róże okrywowe są bardzo silne i dobrze nadają się do pokrywania dużych powierzchni. Wytwarzają liczne małe kwiaty i często kwitną raz w sezonie. Róże pnące są bardziej zwarte i mogą kwitnąć wielokrotnie przez całe lato. Dzięki długim pędom można je prowadzić po podporach, takich jak pergole czy ściany."
   },
   {
-    "text": "## Ogólne zasady przycinania róż\nTen rozdział opisuje ogólne techniki przycinania wspólne dla wszystkich typów róż.\n\nUżywaj ostrych narzędzi, wykonuj cięcia nad pąkiem skierowanym na zewnątrz i usuwaj pędy chore, krzyżujące się oraz rosnące do środka krzewu.\n\nCięcie róż jest niezbędne dla utrzymania ich zdrowia, kształtu i obfitego kwitnienia. Regularne przycinanie pobudza rośliny do tworzenia nowych pędów i kwiatów.",
-    "id": "rose_chunk_008"
+    "id": "watering_roses",
+    "section": "pielegnacja",
+    "title": "Podlewanie",
+    "keywords": [
+      "podlewanie róż",
+      "jak podlewać róże"
+    ],
+    "text": "Po zadomowieniu się w glebie róże zwykle nie wymagają bardzo częstego podlewania, z wyjątkiem roślin uprawianych w donicach. Nowo posadzone róże należy regularnie podlewać przez pierwsze miesiące, aby system korzeniowy mógł się dobrze rozwinąć. Lepiej podlewać głęboko raz lub dwa razy w tygodniu niż codziennie niewielką ilością wody."
   },
   {
-    "text": "### Kiedy przycinać?\n- **Wiosną:** Usuń martwe, uszkodzone i słabe pędy. Przycinaj tuż nad zdrowym pąkiem skierowanym na zewnątrz.\n- **Latem:** Usuń przekwitłe kwiaty, aby pobudzić roślinę do ponownego kwitnienia.\n- **Jesienią:** Skróć pędy, aby przygotować roślinę do zimy.",
-    "id": "rose_chunk_009"
+    "id": "rose_diseases",
+    "section": "choroby",
+    "title": "Najczęstsze choroby róż",
+    "keywords": [
+      "choroby róż",
+      "czarna plamistość",
+      "rdza różana",
+      "mączniak"
+    ],
+    "text": "Najczęstszą chorobą róż jest czarna plamistość powodująca pojawianie się ciemnych plam na liściach, które następnie żółkną i opadają. Inną chorobą jest rdza różana, objawiająca się rdzawymi plamami na spodniej stronie liści. Mączniak prawdziwy powoduje szarobiały, proszkowaty nalot na liściach i pąkach. Usuwanie porażonych liści oraz dobra cyrkulacja powietrza pomagają ograniczyć rozwój chorób."
   },
   {
-    "text": "### Jak przycinać?\n- Używaj ostrych, czystych narzędzi.\n- Cięcie wykonuj pod kątem 45 stopni, około 0,5 cm nad pąkiem.\n- Usuń pędy krzyżujące się i rosnące do środka krzewu.\n\n---\n\n## Zimowanie róż – jak zabezpieczyć krzewyna zimę\nTen rozdział dotyczy zimowania (zabezpieczania na zimę) wszystkich typów róż.\nZabezpieczenie róż na zimę chroni je przed mrozem i zapewnia zdrowy wzrost w kolejnym sezonie.",
-    "id": "rose_chunk_010"
+    "id": "rose_pruning",
+    "section": "przycinanie",
+    "title": "Przycinanie róż",
+    "keywords": [
+      "przycinanie róż",
+      "cięcie róż",
+      "kiedy przycinać róże"
+    ],
+    "text": "Prawidłowe przycinanie odmładza rośliny i sprzyja powstawaniu nowych pędów oraz większych kwiatów. Zawsze należy usuwać martwe, chore lub uszkodzone pędy. Wiele odmian przycina się pod koniec zimy lub na początku wiosny przed rozpoczęciem intensywnego wzrostu."
   },
   {
-    "text": "### Jak zabezpieczyć róże na zimę?\n1. **Kopczykowanie:** Usyp kopczyk ziemi o wysokości około 20-30 cm wokół podstawy krzewu.\n2. **Okrycie korzeni:** Użyj warstwy kory, słomy lub liści.\n3. **Ochrona pędów:** W przypadku róż pnących, zdejmij je z podpór i okryj agrowłókniną.\nRóże zabezpiecza się poprzez kopczykowanie podstawy krzewu ziemią oraz okrycie korzeni korą, słomą lub liśćmi. Róże pnące wymagają dodatkowej ochrony pędów.\n\n---",
-    "id": "rose_chunk_011"
+    "id": "rose_pests",
+    "section": "problemy",
+    "title": "Szkodniki róż – jak je rozpoznać i zwalczać",
+    "keywords": [
+      "szkodniki róż",
+      "mszyce",
+      "gąsienice",
+      "obnażacze kopciuszki"
+    ],
+    "text": "Niekontrolowane szkodniki szybko się rozprzestrzeniają i poważnie uszkadzają rośliny. Szybkie zastosowanie kontroli jest kluczowe.\n\nMszyce: Wysysają sok z pąków i pędów powodując zniekształcenia. Wydzielają substancję przyciągającą pleśń.\n\nGąsienice: Wylęgają się z jajek na spodniej stronie liści. Mogą długo pozostawać niezauważone, aż zaczną żuć liście, powodując znaczne straty.\n\nObnażacze kopciuszki: Larwy przypominające gąsienice z czarnymi plamami. Szybko gryzą i obgryzają liście.\n\nRóże uprawiane w dobrej glebie i prawidłowo pielęgnowane są odporniejsze na ataki szkodników. Metody kontrolowania obejmują fizyczne usuwanie, wykorzystanie pożytecznych owadów i opryski specjalistycznymi środkami."
   },
   {
-    "text": "## Róże rabatowe – charakterystyka\nTen rozdział opisuje cechy róż rabatowych.\nRóże rabatowe kwitną wielokrotnie i nadają się na rabaty oraz obrzeża.\nPopularne odmiany róż rabatowych z grup **Hybrid Tea** (zwykle jeden kwiat na łodydze) i **Floribunda** (kwitną w kępach). Oba typy kwitną wielokrotnie, od lata do późnej jesieni.",
-    "id": "rose_chunk_012"
-  },
-  {
-    "text": "## Róże pnące – charakterystyka\nTen rozdział opisuje cechy róż pnących.\nRóże pnące wymagają podpór i nadają się do pokrywania ścian, altan oraz pergoli.\n\n## Róże okrywowe – charakterystyka\nTen rozdział opisuje cechy róż okrywowych.\nRóże okrywowe tworzą gęste dywany kwiatów, idealne do pokrywania skarp i zboczy i wymagają minimalnej pielęgnacji.",
-    "id": "rose_chunk_013"
-  },
-  {
-    "text": "## Róże parkowe – charakterystyka\nTen rozdział opisuje cechy róż parkowych.\nRóże parkowe to duże, wytrzymałe krzewy, są odporne na choroby i nadają się do dużych ogrodów.\n\n## Róże miniaturowe – charakterystyka\nTen rozdział opisuje cechy róż miniaturowych.\nRóże miniaturowe są odpowiednie do donic, balkonów i tarasów. Róże minaturowe wymagają regularnego podlewania i nawożenia.",
-    "id": "rose_chunk_014"
-  },
-  {
-    "text": "## Róże angielskie – charakterystyka\nTen rozdział opisuje cechy róż angielskich.\nRóże Angielskie łączą piękno starych róż z powtarzającym się kwitnieniem nowoczesnych odmian. Odporne na choroby.\n\n---\n\n## Choroby i szkodniki róż\nTen rozdział dotyczy diagnostyki chorób i szkodników róż.",
-    "id": "rose_chunk_015"
-  },
-  {
-    "text": "### Mszyce\nObjawem są skręcone liście i osłabienie roślin. Regularnie sprawdzaj rośliny, stosuj naturalne środki owadobójcze.\n\n### Mączniak prawdziwy\nObjawem jest biały nalot na liściach. Unikaj moczenia liści podczas podlewania, stosuj fungicydy.",
-    "id": "rose_chunk_016"
-  },
-  {
-    "text": "### Czarna plamistość\nObjawem są czarne plamy i żółknięcie liści.Usuwaj zainfekowane liście, stosuj fungicydy.\n\n### Żółknięcie liści róż\nŻółknięcie liści może wynikać z nadmiaru wody, niedoborów składników lub chorób grzybowych.\n  - Sprawdź drenaż gleby i zmniejsz częstotliwość podlewania.\n  - Zastosuj nawóz bogaty w azot.\n  - Usuń zainfekowane liście i zastosuj fungicydy\n\n---",
-    "id": "rose_chunk_017"
-  },
-  {
-    "text": "## Podsumowanie\nTen rozdział podsumowuje zasady pielęgnacji róż.\nPrawidłowa pielęgnacja róż wymaga uwagi i regularności. Pamiętaj o odpowiednim podłożu, nawożeniu, podlewaniu, przycinaniu i ochronie przed szkodnikami, aby cieszyć się pięknymi, zdrowymi roślinami przez wiele lat.",
-    "id": "rose_chunk_018"
+    "id": "rose_diseases_expanded",
+    "section": "problemy",
+    "title": "Choroby róż – objawy i zapobieganie",
+    "keywords": [
+      "choroby róż",
+      "czarna plamistość",
+      "rdza różana",
+      "mączniak prawdziwy"
+    ],
+    "text": "Różne odmiany róż wykazują różną podatność na choroby. Ogólnie rośliny z błyszczącymi liśćmi mają lepszą odporność naturalną. Wiele odmian jest określane jako odporne na choroby, ale mogą być zainfekowane przy niesprzyjających warunkach.\n\nCzarna plamistość: Najczęstsza choroba róż. Liście wytwarzają ciemne plamy, żółkną i opadają.\n\nRdza różana: Powoduje rdzawe plamy na spodniej stronie liści z pasującymi żółtymi plamami na górze.\n\nMączniak prawdziwy: Wpływa na liście, łodygi i pąki. Powoduje szarobiałe, proszkowate pokrycie. Liście przebarwiają się, a zakażone pąki nie otwierają się.\n\nZmniejszanie ryzyka chorób: Starannie usuwać silnie dotknięte liście i pozbyć się wszystkich opadłych liści. Przycinanie jesienią i na końcu zimy pomaga w usuwaniu pędów mogących przechowywać zarodniki choroby. Gęsty mulcz wokół roślin zapobiega rozprzestrzenianiu się zarodników."
   }
 ]

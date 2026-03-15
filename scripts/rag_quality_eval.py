@@ -10,7 +10,8 @@ INDEX_FILE = Path("knowledge/faiss/rose_index.faiss")
 META_FILE = Path("knowledge/faiss/rose_chunks_meta.json")
 QUESTIONS_FILE = Path("tests/rag_questions.json")
 
-MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+MODEL_NAME = "intfloat/multilingual-e5-small"
+#MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 TOP_K = 5
 # ==================
 

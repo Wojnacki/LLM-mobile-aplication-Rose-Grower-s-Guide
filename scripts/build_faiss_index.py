@@ -10,13 +10,14 @@ CHUNKS_FILE = Path("knowledge/chunks/poradnik_pielegnacji_roz_chunks_fixed.jsonl
 INDEX_FILE = Path("knowledge/faiss/rose_index.faiss")
 META_FILE = Path("knowledge/faiss/rose_chunks_meta.json")
 
-MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+MODEL_NAME = "intfloat/multilingual-e5-small"
+#MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 # ========================
 
 
 def load_chunks(path):
     with path.open(encoding="utf-8") as f:
-        return [json.loads(line) for line in f]
+        return json.load(f)
 
 
 def main():
@@ -27,7 +28,13 @@ def main():
 
     print("🔹 Ładowanie chunków...")
     chunks = load_chunks(CHUNKS_FILE)
-    texts = [c["text"] for c in chunks]
+    texts = [
+    f"{c.get('title','')} {c.get('section','')} {c.get('text','')} {' '.join(c.get('keywords', []))}"
+    for c in chunks
+    ]
+
+    print("\n🔎 Przykładowy tekst do embeddingu:\n")
+    print(texts[0][:400])
 
     print(f"🔹 Chunków: {len(texts)}")
 
