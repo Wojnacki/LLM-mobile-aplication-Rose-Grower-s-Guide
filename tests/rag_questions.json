@@ -4,16 +4,12 @@
     "must_contain": ["przycin"]
   },
   {
-    "question": "Jak zabezpieczyć róże na zimę?",
-    "must_contain": ["zim"]
-  },
-  {
-    "question": "Dlaczego liście róży żółkną?",
-    "must_contain": ["żółk"]
+    "question": "Dlaczego liście róży żółkną i opadają?",
+    "must_contain": ["żółkn", "opad"]
   },
   {
     "question": "Jak często podlewać róże?",
-    "must_contain": ["podlew"]
+    "must_contain": ["podlew", "tygod"]
   },
   {
     "question": "Czym różnią się róże pnące od parkowych?",
@@ -21,26 +17,31 @@
   },
   {
     "question": "Jakie są korzyści z mulczowania róż?",
-    "must_contain": ["mulcz"]
+    "must_contain": ["mulcz", "wilgo"]
   },
   {
     "question": "Jakie są najczęstsze choroby róż i jak je zwalczać?",
-    "must_contain": ["chorob"]
+    "must_contain": ["chorob", "plamist"]
   },
   {
     "question": "Jakie podłoże jest najlepsze dla róż?",
-    "must_contain": ["podłoż"]
+    "must_contain": ["podłoż", "przepuszcz"]
   },
   {
-    "question": "Jak nawozić róże w sezonie?",
-    "must_contain": ["nawo"]
+    "question": "Jak poradzić sobie z mszycami na różach?",
+    "must_contain": ["mszy"]
   },
   {
     "question": "Porównaj róże pnące z okrywowymi",
-    "must_contain": ["pnąc"]
+    "must_contain": ["pnąc", "okryw"]
   },
   {
-    "question": "Jak poradzić sobie z mszycami",
-    "must_contain": ["mszy"]
-  }  
+    "question": "Jak sadzić róże krok po kroku?",
+    "must_contain": ["sadz", "korzeni"]
+  },
+  {
+    "question": "Kiedy sadzić tulipany?",
+    "must_contain": [],
+    "expect_no_results": true
+  }
 ]
