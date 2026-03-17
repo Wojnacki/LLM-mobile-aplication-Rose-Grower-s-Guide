@@ -4,11 +4,11 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-# Access the API key
-API_KEY = os.getenv('API_KEY')
+# Access the Anthropic API key
+ANTHROPIC_API_KEY = os.getenv('ANTHROPIC_API_KEY')
 
-if API_KEY is None:
-    raise ValueError("API_KEY not found in environment variables. Please set it in the .env file.")
+if ANTHROPIC_API_KEY is None:
+    raise ValueError("ANTHROPIC_API_KEY not found in environment variables. Please set it in the .env file.")
 
 # You can add other configuration here
 # For example:
