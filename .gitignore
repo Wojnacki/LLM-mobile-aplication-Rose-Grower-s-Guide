@@ -48,6 +48,9 @@ coverage.xml
 *.cover
 *.py.cover
 .hypothesis/
+
+# Environment variables
+.env
 .pytest_cache/
 cover/
 
@@ -205,3 +208,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large model files (exceed GitHub's 100 MB limit)
+# ONNX models
+*.onnx
+models/onnx/
+# GGUF models
+*.gguf
+models/gguf/
+# FAISS indexes
+*.faiss
+knowledge/faiss/
