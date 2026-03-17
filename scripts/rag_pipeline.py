@@ -2,12 +2,17 @@ import json
 import logging
 import numpy as np
 from pathlib import Path
+import sys
 
 import faiss
 import onnxruntime as ort
 from transformers import AutoTokenizer
 import os
 import anthropic
+
+# Add parent directory to path to import inference module
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from inference.config import ANTHROPIC_API_KEY
 
 logging.getLogger("transformers.tokenization_utils_base").setLevel(logging.ERROR)
 
@@ -17,7 +22,6 @@ INDEX_FILE  = Path("knowledge/faiss/rose_index.faiss")
 META_FILE   = Path("knowledge/faiss/rose_chunks_meta.json")
 MODEL_DIR   = Path("models/onnx/e5-small-int8")
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 CLAUDE_MODEL      = "claude-haiku-4-5-20251001"
 
 TOP_K      = 3      # ile chunków podajemy do LLM
