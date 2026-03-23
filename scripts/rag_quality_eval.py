@@ -9,8 +9,8 @@ from transformers import AutoTokenizer
 # Wycisz fałszywy warning o regex tokenizera
 logging.getLogger("transformers.tokenization_utils_base").setLevel(logging.ERROR)
 
-INDEX_FILE         = Path("knowledge/faiss/rose_index.faiss")
-META_FILE          = Path("knowledge/faiss/rose_chunks_meta.json")
+INDEX_FILE         = Path("mobile/flutter_app/assets/rose_index.faiss")
+META_FILE          = Path("mobile/flutter_app/assets/rose_chunks_meta.json")
 QUESTIONS_FILE     = Path("tests/rag_questions.json")
 MODEL_DIR          = Path("models/onnx/e5-small-int8")
 TOP_K              = 5
@@ -132,5 +132,15 @@ def main():
     if neg_total:
         print(f"Pytania negatywne  — odrzucono poprawnie: {neg_hits}/{neg_total} ({neg_hits/neg_total:.0%})  [próg={MIN_SCORE_NEGATIVE}]")
 
-if __name__ == "__main__":
-    main()
+    # Test pojedynczego pytania
+    query = 'jakie są rodzaje róż'
+    q_emb = encode_query(query, tokenizer, sess, input_names)
+    scores, indices = index.search(q_emb, 5)
+
+    print(f'\nTest pojedynczego pytania: {query}')
+    for rank, idx in enumerate(indices[0], 1):
+        chunk = chunks[idx]
+        score = scores[0][rank - 1]
+        print(f'[{rank}] score={score:.3f} | {chunk["title"]}')
+        print(f'   Text: {chunk["text"][:200]}...')
+        print()
